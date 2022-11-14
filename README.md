@@ -22,18 +22,18 @@ $ sudo chmod +x install.sh && ./install.sh
 #### 1. Install the dependency package:
 
 $ cd ~/Downloads \
-$ sudo apt-get update && sudo apt-get install openjdk-8-jdk
+$ sudo apt-get update && sudo apt-get install openjdk-11-jdk
 
 #### 2. Downloaded the Linux version of PyCharm community from their website, extracted the files
 
 https://www.jetbrains.com/pycharm/download/#section=linux \
  \
-$ tar -xzf pycharm-professional-2019.3.4.tar.gz && cd pycharm-2019.3.4/bin \
+$ tar -xzf pycharm-professional-2022.2.3.tar.gz && cd pycharm-2022.2.3/bin \
 $ mv pycharm.sh pycharm && sudo chmod +x pycharm
 
 #### 3. xport the path to root and test
 
-$ echo 'export PATH=/home/'$USER'/pycharm-2019.3.4/bin:$PATH' >> .bashrc
+$ echo 'export PATH=/home/'$USER'/pycharm-2022.2.3/bin:$PATH' >> .bashrc
  
 ### How to use
 
