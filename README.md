@@ -1,4 +1,5 @@
-# PyCharm-aarch64 pycharm-2022.2.3
+# PyCharm-aarch64 pycharm-2022.2.3 (甲骨文Arm4核24GVps适用)
+
 
 ## Demo
 
